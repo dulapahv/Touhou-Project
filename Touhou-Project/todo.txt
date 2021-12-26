@@ -1,0 +1,23 @@
+1. Play
+2. Sync
+    2.1. Sign in
+    2.2. Register
+    2.3. Logout
+3. Setting
+    3.1. Music
+    3.2. SFX
+    3.3. FPS
+4. Help
+5. About
+6. Exit
+
+config.ini
+[User]
+Username = 
+Score = 
+TimesPlayed = 
+
+[Settings]
+Music = 
+SFX = 
+FPS = 

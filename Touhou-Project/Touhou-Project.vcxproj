@@ -326,12 +326,40 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="src\main.cpp" />
+  </ItemGroup>
+  <ItemGroup>
     <ProjectReference Include="..\build\raylib.vcxproj">
       <Project>{8898EA18-743A-15EF-5DF5-284349369C3F}</Project>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="main.cpp" />
+    <Media Include="resources\music\TITLE.mp3" />
+    <Media Include="resources\sfx\1UP.wav" />
+    <Media Include="resources\sfx\ATTACK.wav" />
+    <Media Include="resources\sfx\ATTACK2.wav" />
+    <Media Include="resources\sfx\ATTACK3.wav" />
+    <Media Include="resources\sfx\ATTACK4.wav" />
+    <Media Include="resources\sfx\ATTACK5.wav" />
+    <Media Include="resources\sfx\BONUS.wav" />
+    <Media Include="resources\sfx\BONUS2.wav" />
+    <Media Include="resources\sfx\BONUS3.wav" />
+    <Media Include="resources\sfx\CAUTION.wav" />
+    <Media Include="resources\sfx\DEAD.wav" />
+    <Media Include="resources\sfx\DEFEATED.wav" />
+    <Media Include="resources\sfx\GUN.wav" />
+    <Media Include="resources\sfx\LASER.wav" />
+    <Media Include="resources\sfx\LASER2.wav" />
+    <Media Include="resources\sfx\MASTER SPARK.wav" />
+    <Media Include="resources\sfx\ORIN.wav" />
+    <Media Include="resources\sfx\POWER UP.wav" />
+    <Media Include="resources\sfx\SPELLCARD.wav" />
+    <Media Include="resources\sfx\TWINKLE.wav" />
+    <Media Include="resources\sfx\TWINKLE2.wav" />
+    <Media Include="resources\sfx\TWINKLE3.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="todo.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

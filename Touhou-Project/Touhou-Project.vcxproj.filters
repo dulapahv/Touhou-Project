@@ -11,7 +11,6 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <Media Include="resources\music\TITLE.mp3" />
     <Media Include="resources\sfx\1UP.wav" />
     <Media Include="resources\sfx\ATTACK.wav" />
     <Media Include="resources\sfx\ATTACK2.wav" />
@@ -34,8 +33,13 @@
     <Media Include="resources\sfx\TWINKLE.wav" />
     <Media Include="resources\sfx\TWINKLE2.wav" />
     <Media Include="resources\sfx\TWINKLE3.wav" />
+    <Media Include="resources\music\TITLE.wav" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="todo.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="resources\gfx\bg\title.jpg" />
+    <Image Include="resources\gfx\bg\title.png" />
   </ItemGroup>
 </Project>

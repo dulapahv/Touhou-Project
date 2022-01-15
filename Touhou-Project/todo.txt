@@ -3,7 +3,7 @@
     2.1. Sign in
     2.2. Register
     2.3. Logout
-3. Setting
+3. Option
     3.1. Music
     3.2. SFX
     3.3. FPS

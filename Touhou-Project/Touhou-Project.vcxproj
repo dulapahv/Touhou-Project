@@ -334,7 +334,7 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <Media Include="resources\music\TITLE.mp3" />
+    <Media Include="resources\music\TITLE.wav" />
     <Media Include="resources\sfx\1UP.wav" />
     <Media Include="resources\sfx\ATTACK.wav" />
     <Media Include="resources\sfx\ATTACK2.wav" />
@@ -360,6 +360,10 @@
   </ItemGroup>
   <ItemGroup>
     <Text Include="todo.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="resources\gfx\bg\title.jpg" />
+    <Image Include="resources\gfx\bg\title.png" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

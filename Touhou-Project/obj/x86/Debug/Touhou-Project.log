@@ -1,2 +1,3 @@
 ﻿  main.cpp
+C:\Users\Dulapah Vibulsanti\OneDrive\Documents\GitHub\Touhou-Project\Touhou-Project\src\main.cpp(13,2): warning C4091: 'typedef ': ignored on left of '<unnamed-enum-START>' when no variable is declared
   Touhou-Project.vcxproj -> C:\Users\Dulapah Vibulsanti\OneDrive\Documents\GitHub\Touhou-Project\bin\Debug\Touhou-Project.exe

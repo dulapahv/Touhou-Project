@@ -4,42 +4,114 @@
     <Filter Include="Source Files">
       <UniqueIdentifier>{E9C7FDCE-D52A-8D73-7EB0-C5296AF258F6}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{a88fe641-44f0-487e-86f4-c1afe5ca892a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{e293fb9e-ea63-485e-b8ca-38e346f1233c}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="src\main.cpp">
+    <ClCompile Include="Source Files\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="main_menu.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="touhou_project.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <Media Include="resources\sfx\1UP.wav" />
-    <Media Include="resources\sfx\ATTACK.wav" />
-    <Media Include="resources\sfx\ATTACK2.wav" />
-    <Media Include="resources\sfx\ATTACK3.wav" />
-    <Media Include="resources\sfx\ATTACK4.wav" />
-    <Media Include="resources\sfx\ATTACK5.wav" />
-    <Media Include="resources\sfx\BONUS.wav" />
-    <Media Include="resources\sfx\BONUS2.wav" />
-    <Media Include="resources\sfx\BONUS3.wav" />
-    <Media Include="resources\sfx\CAUTION.wav" />
-    <Media Include="resources\sfx\DEAD.wav" />
-    <Media Include="resources\sfx\DEFEATED.wav" />
-    <Media Include="resources\sfx\GUN.wav" />
-    <Media Include="resources\sfx\LASER.wav" />
-    <Media Include="resources\sfx\LASER2.wav" />
-    <Media Include="resources\sfx\MASTER SPARK.wav" />
-    <Media Include="resources\sfx\ORIN.wav" />
-    <Media Include="resources\sfx\POWER UP.wav" />
-    <Media Include="resources\sfx\SPELLCARD.wav" />
-    <Media Include="resources\sfx\TWINKLE.wav" />
-    <Media Include="resources\sfx\TWINKLE2.wav" />
-    <Media Include="resources\sfx\TWINKLE3.wav" />
-    <Media Include="resources\music\TITLE.wav" />
+    <Media Include="resources\sfx\1UP.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="resources\sfx\ATTACK.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="resources\sfx\ATTACK2.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="resources\sfx\ATTACK3.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="resources\sfx\ATTACK4.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="resources\sfx\ATTACK5.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="resources\sfx\BONUS.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="resources\sfx\BONUS2.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="resources\sfx\BONUS3.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="resources\sfx\CAUTION.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="resources\sfx\DEAD.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="resources\sfx\DEFEATED.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="resources\sfx\GUN.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="resources\sfx\LASER.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="resources\sfx\LASER2.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="resources\sfx\MASTER SPARK.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="resources\sfx\ORIN.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="resources\sfx\POWER UP.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="resources\sfx\SPELLCARD.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="resources\music\TITLE.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="resources\sfx\TWINKLE.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="resources\sfx\TWINKLE2.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="resources\sfx\TWINKLE3.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
   </ItemGroup>
   <ItemGroup>
-    <Text Include="todo.txt" />
+    <Image Include="resources\gfx\bg\title.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="resources\gfx\bg\title.png">
+      <Filter>Resource Files</Filter>
+    </Image>
   </ItemGroup>
   <ItemGroup>
-    <Image Include="resources\gfx\bg\title.jpg" />
-    <Image Include="resources\gfx\bg\title.png" />
+    <Text Include="todo.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="main_menu.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="touhou_project.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

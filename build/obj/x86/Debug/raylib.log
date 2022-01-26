@@ -1,81 +1,81 @@
 ﻿  raudio.c
-C:\Users\Dulapah Vibulsanti\OneDrive\Documents\GitHub\Touhou-Project\raylib\src\external\jar_xm.h(130,22): warning C4018: '<': signed/unsigned mismatch
-C:\Users\Dulapah Vibulsanti\OneDrive\Documents\GitHub\Touhou-Project\raylib\src\external\jar_xm.h(130,80): warning C4244: '=': conversion from 'float' to 'short', possible loss of data
-C:\Users\Dulapah Vibulsanti\OneDrive\Documents\GitHub\Touhou-Project\raylib\src\external\jar_xm.h(143,22): warning C4018: '<': signed/unsigned mismatch
-C:\Users\Dulapah Vibulsanti\OneDrive\Documents\GitHub\Touhou-Project\raylib\src\external\jar_xm.h(143,78): warning C4244: '=': conversion from 'float' to 'char', possible loss of data
-C:\Users\Dulapah Vibulsanti\OneDrive\Documents\GitHub\Touhou-Project\raylib\src\external\jar_xm.h(242,1): warning C4005: 'DEBUG': macro redefinition
-C:\Users\Dulapah Vibulsanti\OneDrive\Documents\GitHub\Touhou-Project\raylib\src\raudio.c : message : see previous definition of 'DEBUG'
-C:\Users\Dulapah Vibulsanti\OneDrive\Documents\GitHub\Touhou-Project\raylib\src\external\jar_xm.h(1238,64): warning C4244: '=': conversion from 'uint16_t' to 'uint8_t', possible loss of data
-C:\Users\Dulapah Vibulsanti\OneDrive\Documents\GitHub\Touhou-Project\raylib\src\external\jar_xm.h(1254,1): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
-C:\Users\Dulapah Vibulsanti\OneDrive\Documents\GitHub\Touhou-Project\raylib\src\external\jar_xm.h(1256,1): warning C4244: 'initializing': conversion from 'float' to 'int8_t', possible loss of data
-C:\Users\Dulapah Vibulsanti\OneDrive\Documents\GitHub\Touhou-Project\raylib\src\external\jar_xm.h(1417,55): warning C4244: '=': conversion from 'uint32_t' to 'float', possible loss of data
-C:\Users\Dulapah Vibulsanti\OneDrive\Documents\GitHub\Touhou-Project\raylib\src\external\jar_xm.h(1424,65): warning C4244: '=': conversion from 'uint32_t' to 'float', possible loss of data
-C:\Users\Dulapah Vibulsanti\OneDrive\Documents\GitHub\Touhou-Project\raylib\src\external\jar_xm.h(1426,55): warning C4244: '=': conversion from 'uint32_t' to 'float', possible loss of data
-C:\Users\Dulapah Vibulsanti\OneDrive\Documents\GitHub\Touhou-Project\raylib\src\external\jar_xm.h(1437,55): warning C4244: '=': conversion from 'uint32_t' to 'float', possible loss of data
-C:\Users\Dulapah Vibulsanti\OneDrive\Documents\GitHub\Touhou-Project\raylib\src\external\jar_xm.h(1464,70): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
-C:\Users\Dulapah Vibulsanti\OneDrive\Documents\GitHub\Touhou-Project\raylib\src\external\jar_xm.h(1824,65): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
-C:\Users\Dulapah Vibulsanti\OneDrive\Documents\GitHub\Touhou-Project\raylib\src\external\jar_xm.h(1933,110): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\Dulapah Vibulsanti\OneDrive\Documents\GitHub\Touhou-Project\raylib\src\external\jar_xm.h(1990,36): warning C4244: '=': conversion from 'float' to 'uint32_t', possible loss of data
-C:\Users\Dulapah Vibulsanti\OneDrive\Documents\GitHub\Touhou-Project\raylib\src\external\jar_xm.h(2029,57): warning C4244: '=': conversion from 'uint32_t' to 'float', possible loss of data
-C:\Users\Dulapah Vibulsanti\OneDrive\Documents\GitHub\Touhou-Project\raylib\src\external\jar_xm.h(2162,48): warning C4244: '+=': conversion from 'float' to 'uint64_t', possible loss of data
-C:\Users\Dulapah Vibulsanti\OneDrive\Documents\GitHub\Touhou-Project\raylib\src\external\jar_xm.h(2220,43): warning C4018: '<': signed/unsigned mismatch
-C:\Users\Dulapah Vibulsanti\OneDrive\Documents\GitHub\Touhou-Project\raylib\src\external\jar_xm.h(2322,1): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Dulapah Vibulsanti\OneDrive - KMITL\Documents\GitHub\Touhou-Project\raylib\src\external\jar_xm.h(130,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Dulapah Vibulsanti\OneDrive - KMITL\Documents\GitHub\Touhou-Project\raylib\src\external\jar_xm.h(130,80): warning C4244: '=': conversion from 'float' to 'short', possible loss of data
+C:\Users\Dulapah Vibulsanti\OneDrive - KMITL\Documents\GitHub\Touhou-Project\raylib\src\external\jar_xm.h(143,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Dulapah Vibulsanti\OneDrive - KMITL\Documents\GitHub\Touhou-Project\raylib\src\external\jar_xm.h(143,78): warning C4244: '=': conversion from 'float' to 'char', possible loss of data
+C:\Users\Dulapah Vibulsanti\OneDrive - KMITL\Documents\GitHub\Touhou-Project\raylib\src\external\jar_xm.h(242,1): warning C4005: 'DEBUG': macro redefinition
+C:\Users\Dulapah Vibulsanti\OneDrive - KMITL\Documents\GitHub\Touhou-Project\raylib\src\raudio.c : message : see previous definition of 'DEBUG'
+C:\Users\Dulapah Vibulsanti\OneDrive - KMITL\Documents\GitHub\Touhou-Project\raylib\src\external\jar_xm.h(1238,64): warning C4244: '=': conversion from 'uint16_t' to 'uint8_t', possible loss of data
+C:\Users\Dulapah Vibulsanti\OneDrive - KMITL\Documents\GitHub\Touhou-Project\raylib\src\external\jar_xm.h(1254,1): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\Dulapah Vibulsanti\OneDrive - KMITL\Documents\GitHub\Touhou-Project\raylib\src\external\jar_xm.h(1256,1): warning C4244: 'initializing': conversion from 'float' to 'int8_t', possible loss of data
+C:\Users\Dulapah Vibulsanti\OneDrive - KMITL\Documents\GitHub\Touhou-Project\raylib\src\external\jar_xm.h(1417,55): warning C4244: '=': conversion from 'uint32_t' to 'float', possible loss of data
+C:\Users\Dulapah Vibulsanti\OneDrive - KMITL\Documents\GitHub\Touhou-Project\raylib\src\external\jar_xm.h(1424,65): warning C4244: '=': conversion from 'uint32_t' to 'float', possible loss of data
+C:\Users\Dulapah Vibulsanti\OneDrive - KMITL\Documents\GitHub\Touhou-Project\raylib\src\external\jar_xm.h(1426,55): warning C4244: '=': conversion from 'uint32_t' to 'float', possible loss of data
+C:\Users\Dulapah Vibulsanti\OneDrive - KMITL\Documents\GitHub\Touhou-Project\raylib\src\external\jar_xm.h(1437,55): warning C4244: '=': conversion from 'uint32_t' to 'float', possible loss of data
+C:\Users\Dulapah Vibulsanti\OneDrive - KMITL\Documents\GitHub\Touhou-Project\raylib\src\external\jar_xm.h(1464,70): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dulapah Vibulsanti\OneDrive - KMITL\Documents\GitHub\Touhou-Project\raylib\src\external\jar_xm.h(1824,65): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dulapah Vibulsanti\OneDrive - KMITL\Documents\GitHub\Touhou-Project\raylib\src\external\jar_xm.h(1933,110): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Dulapah Vibulsanti\OneDrive - KMITL\Documents\GitHub\Touhou-Project\raylib\src\external\jar_xm.h(1990,36): warning C4244: '=': conversion from 'float' to 'uint32_t', possible loss of data
+C:\Users\Dulapah Vibulsanti\OneDrive - KMITL\Documents\GitHub\Touhou-Project\raylib\src\external\jar_xm.h(2029,57): warning C4244: '=': conversion from 'uint32_t' to 'float', possible loss of data
+C:\Users\Dulapah Vibulsanti\OneDrive - KMITL\Documents\GitHub\Touhou-Project\raylib\src\external\jar_xm.h(2162,48): warning C4244: '+=': conversion from 'float' to 'uint64_t', possible loss of data
+C:\Users\Dulapah Vibulsanti\OneDrive - KMITL\Documents\GitHub\Touhou-Project\raylib\src\external\jar_xm.h(2220,43): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Dulapah Vibulsanti\OneDrive - KMITL\Documents\GitHub\Touhou-Project\raylib\src\external\jar_xm.h(2322,1): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
   rcore.c
   rglfw.c
   rmodels.c
-C:\Users\Dulapah Vibulsanti\OneDrive\Documents\GitHub\Touhou-Project\raylib\src\external\par_shapes.h(225,56): warning C4305: 'initializing': truncation from 'double' to 'float'
-C:\Users\Dulapah Vibulsanti\OneDrive\Documents\GitHub\Touhou-Project\raylib\src\external\par_shapes.h(226,60): warning C4305: 'initializing': truncation from 'double' to 'float'
-C:\Users\Dulapah Vibulsanti\OneDrive\Documents\GitHub\Touhou-Project\raylib\src\external\par_shapes.h(294,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-C:\Users\Dulapah Vibulsanti\OneDrive\Documents\GitHub\Touhou-Project\raylib\src\external\par_shapes.h(574,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-C:\Users\Dulapah Vibulsanti\OneDrive\Documents\GitHub\Touhou-Project\raylib\src\external\par_shapes.h(575,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-C:\Users\Dulapah Vibulsanti\OneDrive\Documents\GitHub\Touhou-Project\raylib\src\external\par_shapes.h(583,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-C:\Users\Dulapah Vibulsanti\OneDrive\Documents\GitHub\Touhou-Project\raylib\src\external\par_shapes.h(584,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-C:\Users\Dulapah Vibulsanti\OneDrive\Documents\GitHub\Touhou-Project\raylib\src\external\par_shapes.h(608,28): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
-C:\Users\Dulapah Vibulsanti\OneDrive\Documents\GitHub\Touhou-Project\raylib\src\external\par_shapes.h(599,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-C:\Users\Dulapah Vibulsanti\OneDrive\Documents\GitHub\Touhou-Project\raylib\src\external\par_shapes.h(600,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-C:\Users\Dulapah Vibulsanti\OneDrive\Documents\GitHub\Touhou-Project\raylib\src\external\par_shapes.h(616,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-C:\Users\Dulapah Vibulsanti\OneDrive\Documents\GitHub\Touhou-Project\raylib\src\external\par_shapes.h(625,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-C:\Users\Dulapah Vibulsanti\OneDrive\Documents\GitHub\Touhou-Project\raylib\src\external\par_shapes.h(635,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-C:\Users\Dulapah Vibulsanti\OneDrive\Documents\GitHub\Touhou-Project\raylib\src\external\par_shapes.h(636,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-C:\Users\Dulapah Vibulsanti\OneDrive\Documents\GitHub\Touhou-Project\raylib\src\external\par_shapes.h(658,78): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\Dulapah Vibulsanti\OneDrive\Documents\GitHub\Touhou-Project\raylib\src\external\par_shapes.h(660,78): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\Dulapah Vibulsanti\OneDrive\Documents\GitHub\Touhou-Project\raylib\src\external\par_shapes.h(661,36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\Dulapah Vibulsanti\OneDrive\Documents\GitHub\Touhou-Project\raylib\src\external\par_shapes.h(667,56): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\Dulapah Vibulsanti\OneDrive\Documents\GitHub\Touhou-Project\raylib\src\external\par_shapes.h(668,56): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\Dulapah Vibulsanti\OneDrive\Documents\GitHub\Touhou-Project\raylib\src\external\par_shapes.h(669,36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\Dulapah Vibulsanti\OneDrive\Documents\GitHub\Touhou-Project\raylib\src\external\par_shapes.h(650,1): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
-C:\Users\Dulapah Vibulsanti\OneDrive\Documents\GitHub\Touhou-Project\raylib\src\external\par_shapes.h(651,1): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
-C:\Users\Dulapah Vibulsanti\OneDrive\Documents\GitHub\Touhou-Project\raylib\src\external\par_shapes.h(652,1): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
-C:\Users\Dulapah Vibulsanti\OneDrive\Documents\GitHub\Touhou-Project\raylib\src\external\par_shapes.h(653,1): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
-C:\Users\Dulapah Vibulsanti\OneDrive\Documents\GitHub\Touhou-Project\raylib\src\external\par_shapes.h(654,1): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
-C:\Users\Dulapah Vibulsanti\OneDrive\Documents\GitHub\Touhou-Project\raylib\src\external\par_shapes.h(655,1): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
-C:\Users\Dulapah Vibulsanti\OneDrive\Documents\GitHub\Touhou-Project\raylib\src\external\par_shapes.h(727,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\Dulapah Vibulsanti\OneDrive\Documents\GitHub\Touhou-Project\raylib\src\external\par_shapes.h(728,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\Dulapah Vibulsanti\OneDrive\Documents\GitHub\Touhou-Project\raylib\src\external\par_shapes.h(752,45): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
-C:\Users\Dulapah Vibulsanti\OneDrive\Documents\GitHub\Touhou-Project\raylib\src\external\par_shapes.h(726,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-C:\Users\Dulapah Vibulsanti\OneDrive\Documents\GitHub\Touhou-Project\raylib\src\external\par_shapes.h(835,45): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-C:\Users\Dulapah Vibulsanti\OneDrive\Documents\GitHub\Touhou-Project\raylib\src\external\par_shapes.h(836,45): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-C:\Users\Dulapah Vibulsanti\OneDrive\Documents\GitHub\Touhou-Project\raylib\src\external\par_shapes.h(837,45): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-C:\Users\Dulapah Vibulsanti\OneDrive\Documents\GitHub\Touhou-Project\raylib\src\external\par_shapes.h(883,1): warning C4305: 'initializing': truncation from 'double' to 'float'
-C:\Users\Dulapah Vibulsanti\OneDrive\Documents\GitHub\Touhou-Project\raylib\src\external\par_shapes.h(931,1): warning C4305: 'initializing': truncation from 'double' to 'float'
-C:\Users\Dulapah Vibulsanti\OneDrive\Documents\GitHub\Touhou-Project\raylib\src\external\par_shapes.h(1031,1): warning C4305: 'initializing': truncation from 'double' to 'float'
-C:\Users\Dulapah Vibulsanti\OneDrive\Documents\GitHub\Touhou-Project\raylib\src\external\par_shapes.h(1362,35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\Dulapah Vibulsanti\OneDrive\Documents\GitHub\Touhou-Project\raylib\src\external\par_shapes.h(1364,65): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
-C:\Users\Dulapah Vibulsanti\OneDrive\Documents\GitHub\Touhou-Project\raylib\src\external\par_shapes.h(1366,65): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
-C:\Users\Dulapah Vibulsanti\OneDrive\Documents\GitHub\Touhou-Project\raylib\src\external\par_shapes.h(1368,65): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
-C:\Users\Dulapah Vibulsanti\OneDrive\Documents\GitHub\Touhou-Project\raylib\src\external\par_shapes.h(1525,38): warning C4305: 'function': truncation from 'double' to 'float'
-C:\Users\Dulapah Vibulsanti\OneDrive\Documents\GitHub\Touhou-Project\raylib\src\external\par_shapes.h(1542,27): warning C4244: '*=': conversion from 'double' to 'float', possible loss of data
-C:\Users\Dulapah Vibulsanti\OneDrive\Documents\GitHub\Touhou-Project\raylib\src\external\par_shapes.h(1543,23): warning C4244: '*=': conversion from 'double' to 'float', possible loss of data
-C:\Users\Dulapah Vibulsanti\OneDrive\Documents\GitHub\Touhou-Project\raylib\src\external\par_shapes.h(1544,27): warning C4244: '*=': conversion from 'double' to 'float', possible loss of data
-C:\Users\Dulapah Vibulsanti\OneDrive\Documents\GitHub\Touhou-Project\raylib\src\external\par_shapes.h(1546,42): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\Dulapah Vibulsanti\OneDrive\Documents\GitHub\Touhou-Project\raylib\src\external\par_shapes.h(1830,43): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
-C:\Users\Dulapah Vibulsanti\OneDrive\Documents\GitHub\Touhou-Project\raylib\src\external\par_shapes.h(1830,59): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
-C:\Users\Dulapah Vibulsanti\OneDrive\Documents\GitHub\Touhou-Project\raylib\src\external\par_shapes.h(1830,75): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
-C:\Users\Dulapah Vibulsanti\OneDrive\Documents\GitHub\Touhou-Project\raylib\src\external\par_shapes.h(1799,1): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
-C:\Users\Dulapah Vibulsanti\OneDrive\Documents\GitHub\Touhou-Project\raylib\src\rmodels.c(4865,47): warning C4018: '<': signed/unsigned mismatch
-C:\Users\Dulapah Vibulsanti\OneDrive\Documents\GitHub\Touhou-Project\raylib\src\rmodels.c(4879,47): warning C4018: '<': signed/unsigned mismatch
-C:\Users\Dulapah Vibulsanti\OneDrive\Documents\GitHub\Touhou-Project\raylib\src\rmodels.c(4914,43): warning C4018: '<': signed/unsigned mismatch
-C:\Users\Dulapah Vibulsanti\OneDrive\Documents\GitHub\Touhou-Project\raylib\src\rmodels.c(4926,35): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Dulapah Vibulsanti\OneDrive - KMITL\Documents\GitHub\Touhou-Project\raylib\src\external\par_shapes.h(225,56): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Dulapah Vibulsanti\OneDrive - KMITL\Documents\GitHub\Touhou-Project\raylib\src\external\par_shapes.h(226,60): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Dulapah Vibulsanti\OneDrive - KMITL\Documents\GitHub\Touhou-Project\raylib\src\external\par_shapes.h(294,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Dulapah Vibulsanti\OneDrive - KMITL\Documents\GitHub\Touhou-Project\raylib\src\external\par_shapes.h(574,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Dulapah Vibulsanti\OneDrive - KMITL\Documents\GitHub\Touhou-Project\raylib\src\external\par_shapes.h(575,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Dulapah Vibulsanti\OneDrive - KMITL\Documents\GitHub\Touhou-Project\raylib\src\external\par_shapes.h(583,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Dulapah Vibulsanti\OneDrive - KMITL\Documents\GitHub\Touhou-Project\raylib\src\external\par_shapes.h(584,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Dulapah Vibulsanti\OneDrive - KMITL\Documents\GitHub\Touhou-Project\raylib\src\external\par_shapes.h(608,28): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+C:\Users\Dulapah Vibulsanti\OneDrive - KMITL\Documents\GitHub\Touhou-Project\raylib\src\external\par_shapes.h(599,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Dulapah Vibulsanti\OneDrive - KMITL\Documents\GitHub\Touhou-Project\raylib\src\external\par_shapes.h(600,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Dulapah Vibulsanti\OneDrive - KMITL\Documents\GitHub\Touhou-Project\raylib\src\external\par_shapes.h(616,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Dulapah Vibulsanti\OneDrive - KMITL\Documents\GitHub\Touhou-Project\raylib\src\external\par_shapes.h(625,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Dulapah Vibulsanti\OneDrive - KMITL\Documents\GitHub\Touhou-Project\raylib\src\external\par_shapes.h(635,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Dulapah Vibulsanti\OneDrive - KMITL\Documents\GitHub\Touhou-Project\raylib\src\external\par_shapes.h(636,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Dulapah Vibulsanti\OneDrive - KMITL\Documents\GitHub\Touhou-Project\raylib\src\external\par_shapes.h(658,78): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Dulapah Vibulsanti\OneDrive - KMITL\Documents\GitHub\Touhou-Project\raylib\src\external\par_shapes.h(660,78): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Dulapah Vibulsanti\OneDrive - KMITL\Documents\GitHub\Touhou-Project\raylib\src\external\par_shapes.h(661,36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Dulapah Vibulsanti\OneDrive - KMITL\Documents\GitHub\Touhou-Project\raylib\src\external\par_shapes.h(667,56): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Dulapah Vibulsanti\OneDrive - KMITL\Documents\GitHub\Touhou-Project\raylib\src\external\par_shapes.h(668,56): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Dulapah Vibulsanti\OneDrive - KMITL\Documents\GitHub\Touhou-Project\raylib\src\external\par_shapes.h(669,36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Dulapah Vibulsanti\OneDrive - KMITL\Documents\GitHub\Touhou-Project\raylib\src\external\par_shapes.h(650,1): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+C:\Users\Dulapah Vibulsanti\OneDrive - KMITL\Documents\GitHub\Touhou-Project\raylib\src\external\par_shapes.h(651,1): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+C:\Users\Dulapah Vibulsanti\OneDrive - KMITL\Documents\GitHub\Touhou-Project\raylib\src\external\par_shapes.h(652,1): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+C:\Users\Dulapah Vibulsanti\OneDrive - KMITL\Documents\GitHub\Touhou-Project\raylib\src\external\par_shapes.h(653,1): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+C:\Users\Dulapah Vibulsanti\OneDrive - KMITL\Documents\GitHub\Touhou-Project\raylib\src\external\par_shapes.h(654,1): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+C:\Users\Dulapah Vibulsanti\OneDrive - KMITL\Documents\GitHub\Touhou-Project\raylib\src\external\par_shapes.h(655,1): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+C:\Users\Dulapah Vibulsanti\OneDrive - KMITL\Documents\GitHub\Touhou-Project\raylib\src\external\par_shapes.h(727,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Dulapah Vibulsanti\OneDrive - KMITL\Documents\GitHub\Touhou-Project\raylib\src\external\par_shapes.h(728,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Dulapah Vibulsanti\OneDrive - KMITL\Documents\GitHub\Touhou-Project\raylib\src\external\par_shapes.h(752,45): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+C:\Users\Dulapah Vibulsanti\OneDrive - KMITL\Documents\GitHub\Touhou-Project\raylib\src\external\par_shapes.h(726,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Dulapah Vibulsanti\OneDrive - KMITL\Documents\GitHub\Touhou-Project\raylib\src\external\par_shapes.h(835,45): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dulapah Vibulsanti\OneDrive - KMITL\Documents\GitHub\Touhou-Project\raylib\src\external\par_shapes.h(836,45): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dulapah Vibulsanti\OneDrive - KMITL\Documents\GitHub\Touhou-Project\raylib\src\external\par_shapes.h(837,45): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dulapah Vibulsanti\OneDrive - KMITL\Documents\GitHub\Touhou-Project\raylib\src\external\par_shapes.h(883,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Dulapah Vibulsanti\OneDrive - KMITL\Documents\GitHub\Touhou-Project\raylib\src\external\par_shapes.h(931,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Dulapah Vibulsanti\OneDrive - KMITL\Documents\GitHub\Touhou-Project\raylib\src\external\par_shapes.h(1031,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Dulapah Vibulsanti\OneDrive - KMITL\Documents\GitHub\Touhou-Project\raylib\src\external\par_shapes.h(1362,35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Dulapah Vibulsanti\OneDrive - KMITL\Documents\GitHub\Touhou-Project\raylib\src\external\par_shapes.h(1364,65): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+C:\Users\Dulapah Vibulsanti\OneDrive - KMITL\Documents\GitHub\Touhou-Project\raylib\src\external\par_shapes.h(1366,65): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+C:\Users\Dulapah Vibulsanti\OneDrive - KMITL\Documents\GitHub\Touhou-Project\raylib\src\external\par_shapes.h(1368,65): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+C:\Users\Dulapah Vibulsanti\OneDrive - KMITL\Documents\GitHub\Touhou-Project\raylib\src\external\par_shapes.h(1525,38): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\Dulapah Vibulsanti\OneDrive - KMITL\Documents\GitHub\Touhou-Project\raylib\src\external\par_shapes.h(1542,27): warning C4244: '*=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Dulapah Vibulsanti\OneDrive - KMITL\Documents\GitHub\Touhou-Project\raylib\src\external\par_shapes.h(1543,23): warning C4244: '*=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Dulapah Vibulsanti\OneDrive - KMITL\Documents\GitHub\Touhou-Project\raylib\src\external\par_shapes.h(1544,27): warning C4244: '*=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Dulapah Vibulsanti\OneDrive - KMITL\Documents\GitHub\Touhou-Project\raylib\src\external\par_shapes.h(1546,42): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Dulapah Vibulsanti\OneDrive - KMITL\Documents\GitHub\Touhou-Project\raylib\src\external\par_shapes.h(1830,43): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+C:\Users\Dulapah Vibulsanti\OneDrive - KMITL\Documents\GitHub\Touhou-Project\raylib\src\external\par_shapes.h(1830,59): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+C:\Users\Dulapah Vibulsanti\OneDrive - KMITL\Documents\GitHub\Touhou-Project\raylib\src\external\par_shapes.h(1830,75): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+C:\Users\Dulapah Vibulsanti\OneDrive - KMITL\Documents\GitHub\Touhou-Project\raylib\src\external\par_shapes.h(1799,1): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dulapah Vibulsanti\OneDrive - KMITL\Documents\GitHub\Touhou-Project\raylib\src\rmodels.c(4865,47): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Dulapah Vibulsanti\OneDrive - KMITL\Documents\GitHub\Touhou-Project\raylib\src\rmodels.c(4879,47): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Dulapah Vibulsanti\OneDrive - KMITL\Documents\GitHub\Touhou-Project\raylib\src\rmodels.c(4914,43): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Dulapah Vibulsanti\OneDrive - KMITL\Documents\GitHub\Touhou-Project\raylib\src\rmodels.c(4926,35): warning C4018: '<': signed/unsigned mismatch
   rshapes.c
   rtext.c
   rtextures.c
@@ -84,4 +84,4 @@ C:\Users\Dulapah Vibulsanti\OneDrive\Documents\GitHub\Touhou-Project\raylib\src\
 opengl32.lib(OPENGL32.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in winmm.lib(WINMM.dll); second definition ignored
 kernel32.lib(KERNEL32.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in winmm.lib(WINMM.dll); second definition ignored
 gdi32.lib(GDI32.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in winmm.lib(WINMM.dll); second definition ignored
-  raylib.vcxproj -> C:\Users\Dulapah Vibulsanti\OneDrive\Documents\GitHub\Touhou-Project\bin\Debug\raylib.lib
+  raylib.vcxproj -> C:\Users\Dulapah Vibulsanti\OneDrive - KMITL\Documents\GitHub\Touhou-Project\bin\Debug\raylib.lib

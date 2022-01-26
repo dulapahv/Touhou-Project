@@ -326,7 +326,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="src\main.cpp" />
+    <ClCompile Include="main_menu.cpp" />
+    <ClCompile Include="Source Files\main.cpp" />
+    <ClCompile Include="touhou_project.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\build\raylib.vcxproj">
@@ -364,6 +366,10 @@
   <ItemGroup>
     <Image Include="resources\gfx\bg\title.jpg" />
     <Image Include="resources\gfx\bg\title.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="main_menu.h" />
+    <ClInclude Include="touhou_project.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -10,16 +10,25 @@
     <Filter Include="Resource Files">
       <UniqueIdentifier>{e293fb9e-ea63-485e-b8ca-38e346f1233c}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\UI">
+      <UniqueIdentifier>{8a93c5c2-9237-4396-80b5-dcfe3bb4ee29}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\UI">
+      <UniqueIdentifier>{81ab4bbf-d7d2-43bb-b53b-6bed3e91a9d3}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Source Files\main.cpp">
+    <ClCompile Include="src\main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="main_menu.cpp">
+    <ClCompile Include="src\touhou_project.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="touhou_project.cpp">
-      <Filter>Source Files</Filter>
+    <ClCompile Include="src\UI\main_menu.cpp">
+      <Filter>Source Files\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="src\UI\option.cpp">
+      <Filter>Source Files\UI</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
@@ -107,11 +116,14 @@
     </Text>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="main_menu.h">
+    <ClInclude Include="header\touhou_project.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="touhou_project.h">
-      <Filter>Header Files</Filter>
+    <ClInclude Include="header\UI\main_menu.h">
+      <Filter>Header Files\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="header\UI\option.h">
+      <Filter>Header Files\UI</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
